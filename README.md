@@ -67,7 +67,7 @@ It is designed to make coding and project management easier directly from your t
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/Umut578/dcaCode.git
 ```
 
 Enter the project directory:
